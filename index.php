@@ -58,7 +58,7 @@ and open the template in the editor.
     <div class="main">
     <header>
       <div class="row-1">
-        <h1><center><a class="logo" >OHMBROO GITHUIB WORKED WEATHER CAM - <a href="index.php">CLICK HERE TO UPDATE PIC</a></center>
+        <h1><center><a class="logo" >OHMBROO WEATHER CAM - <a href="index.php">CLICK HERE TO UPDATE PIC</a></center>
         <center><a class="logo" target="_blank" rel="noopener noreferrer" 
                    href="https://tempestwx.com/station/81383/">OHMBROO WEATHER STATION</a></center>
         </h1>
