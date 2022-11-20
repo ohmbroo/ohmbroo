@@ -7,7 +7,11 @@ and open the template in the editor.
 <html>
   <head>
     <meta charset="UTF-8">
-    <title></title>
+          <title>OHMBROO</title>
+     <link rel="icon" href="rainbow.png">
+<!--     <link rel="icon" href="beer-2.svg"> -->
+<!--      <link rel="icon" href="rainbow-balloon.png"> -->
+<!--     <link rel="icon" href="darth-vader.png">     -->
   </head>
 <?php
 ////////////////////////////////////////////////////////////////////////////////
@@ -43,13 +47,6 @@ and open the template in the editor.
           display: inline-block;                
          }            
   </style>
-
-   <head>
-     <link rel="icon" href="rainbow.png">
-<!--     <link rel="icon" href="beer-2.svg"> -->
-<!--      <link rel="icon" href="rainbow-balloon.png"> -->
-<!--     <link rel="icon" href="darth-vader.png">     -->
-  </head>
 
   <body id="page1">
     <!-- header -->
