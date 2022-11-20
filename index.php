@@ -43,15 +43,14 @@ and open the template in the editor.
           display: inline-block;                
          }            
   </style>
-<!--
-   <head>
-    <link rel="shortcut icon" href="http://sstatic.net/stackoverflow/img/favicon.ico">
-    <title>OHMBRO00000nnnnnO</title>
-  </head>
-  </head>
-<!--
 
--->
+   <head>
+     <link rel="icon" href="rainbow.png">
+<!--     <link rel="icon" href="beer-2.svg"> -->
+<!--      <link rel="icon" href="rainbow-balloon.png"> -->
+<!--     <link rel="icon" href="darth-vader.png">     -->
+  </head>
+
   <body id="page1">
     <!-- header -->
     <div class="bg">
