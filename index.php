@@ -56,6 +56,7 @@ and open the template in the editor.
       <div class="row-1">
         <h1><center><a class="logo" >OHMBROO WEATHER CAM - <a href="index.php">CLICK HERE TO UPDATE PIC</a></center>
         <center><a class="logo" target="_blank" rel="noopener noreferrer" 
+                   
                    href="https://tempestwx.com/station/81383/">OHMBROO WEATHER STATION</a></center>
         </h1>
           <body>          
@@ -72,9 +73,12 @@ and open the template in the editor.
                          
           <h2><center> <a class="logo" target="_blank" rel="noopener noreferrer" 
                         href="http://www.youtube.com/user/ohmbroo/">YOUTUBE CHANNEL - DAILY TIME LAPSE VIDEOS</a></center>                                
+
+            <h2><center> <a class="logo" target="_blank" rel="noopener noreferrer" 
+                       <a href="http://www.wunderground.com/dashboard/pws/KNMRIORA349#history">WEATHER UNDERGROUND STATION - TEMPEST</a></center>
                                       
           <h2><center> <a class="logo" target="_blank" rel="noopener noreferrer" 
-                       <a href="http://www.wunderground.com/dashboard/pws/KNMRIORA59#history">WEATHER UNDERGROUND STATION</a></center>
+                       <a href="http://www.wunderground.com/dashboard/pws/KNMRIORA59#history">WEATHER UNDERGROUND STATION - AMBIENT STATION</a></center>
 
           <h2><center> <a class="logo" target="_blank" rel="noopener noreferrer" 
                         href="https://ambientweather.net/dashboard/3abca0ac00a626a6106dcbbe6ac4a441/graphs">AMBIENT WEATHER STATION - SEMI-RETIRED</a></center>
