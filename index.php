@@ -47,47 +47,70 @@ and open the template in the editor.
           display: inline-block;                
          }            
   </style>
-
-  <body id="page1">
+  <style type="text/css">
+     td { padding: 2px 50px 2px 10px; } <!-- top, right, bottom, left -->
+   </style>
+        
+    <body id="page1">
     <!-- header -->
+    <!-- this do nothing
     <div class="bg">
     <div class="main">
+    -->
     <header>
-      <div class="row-1">
-        <h1><center><a class="logo" >OHMBROO WEATHER CAM - <a href="index.php">CLICK HERE TO UPDATE PIC</a></center>
-        <center><a class="logo" target="_blank" rel="noopener noreferrer" 
-                   
+  <!-- This did nothing   <div class="row-1">  -->
+          
+    <h1><center><a class="logo" >OHMBROO WEATHER CAM - <a href="index.php">CLICK HERE TO UPDATE PIC</a></center>
+        <center><a class="logo" target="_blank" rel="noopener noreferrer"                   
                    href="https://tempestwx.com/station/81383/">OHMBROO WEATHER STATION</a></center>
-        </h1>
-          <body>          
-                <center><img src="snapshot/ohmbrooCAM_image.jpg" alt="ohmbrooCAM1"></center>
+    </h1>    
+  
+  
+  <!--
+  <h1>
+        <center><table>
+          <td><a class="logo" >OHMBROO WEATHER CAM - <a href="index.php">CLICK HERE TO UPDATE PIC</a></td>                                    
+               target="_blank" rel="noopener noreferrer" 
+          <td><a class="logo"  href="https://tempestwx.com/station/81383/">OHMBROO WEATHER STATION LINK</a></td>
+        </table></center>
+      </h1>
+  -->    
+        <center><img src="snapshot/ohmbrooCAM_image.jpg" alt="ohmbrooCAM1"></center>
                 <!-- webcam.io widget --
                 <h1><center>
                   <script type="text/javascript">window.timelapseview_options=window.timelapseview_options || 
                           {};window.timelapseview_options["EvgEt"] = {"e":"dzoG2z","t":"1","x":"680","y":"620","nc":true,"r":"3-hours"};</script>
                   <script src="https://webcam.io/s/widget-v1_03.load.js?i=EvgEt" async></script>
                 </center></h1>  
-                 end webcam.io widget -->
-          <h2><center> <a class="logo" target="_blank" rel="noopener noreferrer" 
-                        href="http://webcam.io/webcams/dzoG2z/">OHMBROO WEATHER CAM TIME LAPSE DASHBOARD</a></center>
-                         
-          <h2><center> <a class="logo" target="_blank" rel="noopener noreferrer" 
-                        href="http://www.youtube.com/user/ohmbroo/">YOUTUBE CHANNEL - DAILY TIME LAPSE VIDEOS</a></center>                                
-
-            <h2><center> <a class="logo" target="_blank" rel="noopener noreferrer" 
-                       <a href="http://www.wunderground.com/dashboard/pws/KNMRIORA349#history">WEATHER UNDERGROUND STATION - TEMPEST</a></center>
-                                      
-          <h2><center> <a class="logo" target="_blank" rel="noopener noreferrer" 
-                       <a href="http://www.wunderground.com/dashboard/pws/KNMRIORA59#history">WEATHER UNDERGROUND STATION - AMBIENT STATION</a></center>
-
-          <h2><center> <a class="logo" target="_blank" rel="noopener noreferrer" 
-                        href="https://ambientweather.net/dashboard/3abca0ac00a626a6106dcbbe6ac4a441/graphs">AMBIENT WEATHER STATION - SEMI-RETIRED</a></center>
-                        
-                <h2><center> <a class="logo" target="_blank" rel="noopener noreferrer" 
-                        href="https://www.youtube.com/channel/UCQYvjlZeNZ8KgEmJx58ES6w/live">YOUTUBE LIVE - TBD </center>
+                 end webcam.io widget -->   
+      <h2>
+        <center><table>
+          <td><a class="logo" target="_blank" rel="noopener noreferrer" 
+                  href="http://webcam.io/webcams/dzoG2z/">OHMBROO WEATHER CAM TIME LAPSE DASHBOARD</a></td>
+          <td><a class="logo" target="_blank" rel="noopener noreferrer" 
+                 href="http://www.youtube.com/user/ohmbroo/">YOUTUBE CHANNEL - DAILY TIME LAPSE VIDEOS</a></td>
+        </table></center> 
+      </h2>
+      <h2>
+        <center><table>
+          <td><a class="logo" target="_blank" rel="noopener noreferrer" 
+              <a href="http://www.wunderground.com/dashboard/pws/KNMRIORA349#history">WEATHER UNDERGROUND STATION - TEMPEST</a></td>                           
+          <td><a class="logo" target="_blank" rel="noopener noreferrer" 
+              <a href="http://www.wunderground.com/dashboard/pws/KNMRIORA59#history">WEATHER UNDERGROUND STATION - AMBIENT STATION</a></td>
+        </table></center>
+      </h2>
+      <h2>
+        <center><table>  
+          <td><a class="logo" target="_blank" rel="noopener noreferrer" 
+                 href="https://ambientweather.net/dashboard/3abca0ac00a626a6106dcbbe6ac4a441/graphs">AMBIENT WEATHER STATION - SEMI-RETIRED</a></td>              
+          <td><a class="logo" target="_blank" rel="noopener noreferrer" 
+                 <a href="http://www.youtube.com/user/ohmbroo/">LIVESTREAM WX CAM - TBD </a>
+                 <!--<a href="https://www.youtube.com/channel/UCQYvjlZeNZ8KgEmJx58ES6w/live">LIVESTREAM WX CAM - TBD </a> -->
+            </table></center>
                                
              <!--   <h1><center><a class="logo" href="gallery.php">KATRINA GALLERY [limited]</a></center> 
              -->
+      </h2>
   </body>
   </header>    
 </html>
