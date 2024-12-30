@@ -60,9 +60,15 @@ and open the template in the editor.
     <header>
   <!-- This did nothing   <div class="row-1">  -->
           
-    <h1><center><a class="logo" >OHMBROO WEATHER CAM - <a href="index.php">CLICK HERE TO UPDATE PIC</a></center>
-        <center><a class="logo" target="_blank" rel="noopener noreferrer"                   
-                   href="https://tempestwx.com/station/81383/">OHMBROO WEATHER STATION</a></center>
+    <h1><center><a class="logo" >OHMBROO WEATHER CAM NORTH HDG 120 - <a href="index.php">CLICK HERE TO UPDATE PIC</a></center>
+      <center><table>
+        <td><a class="logo" target="_blank" rel="noopener noreferrer"                   
+                href="https://tempestwx.com/station/81383/">OHMBROO WEATHER STATION</a></td>
+                <td><a class=""logo" target="_blank" rel="noopener noreferrer"
+                href="./snapshot/2024-10-20-CamsSelfie1.jpg">OHMBROO CAMS SELFIE</a></td>
+                <!-- src="snapshot/2024-10-20-CamsSelfie1.jpg" -->
+      </table></center>
+        
     </h1>    
   
   
@@ -112,5 +118,25 @@ and open the template in the editor.
              -->
       </h2>
   </body>
+ <table> 
+       
+  
+        <tfoot align="center"> 
+            <tr> 
+                <td>Author - Edward Sadzewicz</td> 
+                <td>Updated - 27-MAY-2024</td> 
+                
+            </tr> 
+        </tfoot> 
+    </table> 
+  <!--<tfoot align="right">
+     <p>Author: Edward Sadzewicz - Updated 27-MAY-2024</p> 
+  </tfoot>
+  <!--
+  <footer>
+  <p>Author: Edward Sadzewicz - Updated 27-MAY-2024</p>
+  <!--<p><a href="mailto:hege@example.com">hege@example.com</a></p> 
+</footer> 
+-->
   </header>    
 </html>
