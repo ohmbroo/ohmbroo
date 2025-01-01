@@ -66,7 +66,7 @@ and open the template in the editor.
     <td><a class="logo" target="_blank" rel="noopener noreferrer"                   
            href="https://tempestwx.com/station/81383/">OHMBROO WEATHER STATION</a></td>
     <td><a class=""logo" target="_blank" rel="noopener noreferrer"
-           href="./snapshot/2024-10-20-CamsSelfie1.jpg">OHMBROO CAMS SELFIE</a></td>
+           href="./snapshot/2024-12-31-CamsSelfie1.jpg">OHMBROO CAMS SELFIE</a></td>
                 <!-- src="snapshot/2024-10-20-CamsSelfie1.jpg" -->
   </table></center>
 </h1>    
